@@ -12,7 +12,7 @@ A la hora de escoger nuestras fuentes, hemos obtenido las fuentes que nos da el 
     - CALIBRI
    
 ## GAMA DE COLORES
-![Gama de Colores](assets/images/GAMA COLOR.PNG)
+![Gama de Colores](assets/images/GAMA COLORES.PNG)
 
 ## PROTOTIPOS
 ![Gama de Colores](assets/images/MOQUPS.PNG)
