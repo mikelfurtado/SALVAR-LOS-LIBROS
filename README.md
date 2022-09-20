@@ -10,4 +10,8 @@ Hablando de su compraventa, como objetivo también queremos que estas tiendas te
 A la hora de escoger nuestras fuentes, hemos obtenido las fuentes que nos da el propio "Visual Basic Studio Code", ya que tenemos un gran abanico de fuentes para escoger la más adecuada para nuestra página. En mi caso, tanto para el título como subtítulos de dicha página he escogido la misma fuente para ambos.
  ### FUENTE ESCOGIDA
     - CALIBRI
+   
+## GAMA DE COLORES
+![GAMA DE COLORES].(./assets/images/)
+
   
