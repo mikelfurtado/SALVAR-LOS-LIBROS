@@ -79,4 +79,72 @@
 	.pie{
 	position: absolute;
 	}
+	#Cabecera {
+		padding: 15px;
+		background-size: 100% 100%;
+		text-align: center;
+	}
+
+	.colorcaja {
+		background-color: rgb(220, 4, 55);
+		border: 2px solid rgb(167, 21, 21);
+		margin-top: 15px;
+	}
+  .Titulo {
+		color: rgb(21, 21, 232);
+	}
+    .menu {
+		align-items: center;
+		color: blue;
+		display: inline;
+		border: 2px solid rgb(157, 19, 19);
+		border-radius: 5px;
+		padding: 5px;
+		margin-left: 50px;
+	}
+    h1 {
+    	
+		text-align: center;
+		color: rgb(167, 55, 55);
+		font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    .fondo {
+		background-color: rgb(243, 187, 167);
+	}
+    #arriba {
+	height: 1cm;
+	width: 1cm;
+	}
+	.pie{
+	position: absolute;
+	}
+    caption{
+            text-align: center;
+            color: rgb(0, 0, 0);
+            font-family: 'Courier New';
+    }
+    table {
+            
+        color: black;
+        font-family: 'Times New Roman';
+        opacity: 80%;
+        margin: 0 auto;
+            
+    }
+    table, td, th{
+
+    border: 2px solid rgb(30, 20, 20);
+
+    }
+    tr{
+        background-color: rgb(255, 255, 255);
+          
+            
+    }
+    th{
+    background-color: gray;
+    }
+    table, td, th p{
+        text-align: center;
+    }
 </style>
