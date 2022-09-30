@@ -147,4 +147,19 @@
     table, td, th p{
         text-align: center;
     }
+      .formulario{
+	background-color: rgb(51, 42, 28);
+	text-align: center;
+	}
+       ul li {
+	display: inline-block;
+	text-align: center;
+	}
+	h2{
+	text-align: left;
+	}
+	#mapa {
+		padding-left: 700px;
+		padding-bottom: 200px;
+	}
 </style>
